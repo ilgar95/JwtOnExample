@@ -1,0 +1,6 @@
+@JwtOnExample_HostAddress = http://localhost:5226
+
+GET {{JwtOnExample_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
